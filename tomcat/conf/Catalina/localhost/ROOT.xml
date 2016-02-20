@@ -1,0 +1,4 @@
+<Context>
+  <Listener className="com.github.jesperfj.tomcat.EnvBasedResourceConfig" />
+</Context>
+
