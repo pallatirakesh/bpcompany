@@ -1,2 +1,2 @@
-web: sh	tomcat/bin/startup
-heroku ps:scale web=2
+web:	tomcat/bin/run_tomcat.sh
+heroku ps:scale web=1
